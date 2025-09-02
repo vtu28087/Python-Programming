@@ -1,0 +1,8 @@
+a=int(input("Enter the First number:"))
+b=int(input("Enter the Secound number:"))
+c=int(input("enter the Third number:"))
+print("\nLogical Operations Result:")
+Print((a<b)and(b>c))
+print((a>b)or(b>c))
+print(not(a>b))
+print(not(b>C))
